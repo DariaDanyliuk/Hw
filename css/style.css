@@ -1,0 +1,57 @@
+.r {
+  text-align: right;
+  color: blueviolet;
+}
+
+.c {
+  text-align: center;
+  color: coral;
+}
+
+.l {
+  text-align: left;
+  color: aqua;
+}
+
+.j {
+  text-align: justify;
+  color: deeppink;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+h2 {
+  text-align: right;
+  color: blue;
+}
+
+.copy{
+  text-align: center;
+  color: fuchsia;
+}
+
+body{
+  background-color: rgb(224, 255, 182);
+}
+
+img{
+  width: 600px;
+  height: 370px;
+  display: block;
+  margin: 0 auto;
+}
+
+footer{
+  text-align: center;
+}
+
+ul{
+  color: pink;
+}
+
+nav{
+  font-size: 25px;
+}
